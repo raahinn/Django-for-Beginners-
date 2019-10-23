@@ -1,0 +1,16 @@
+Command prompt command’s for windows list -
+1.	cd (change directory) – to change directory cd is used. Directory means which folder you in. example – cd pic (means enter in pic folder), cd .. (means back ), cd ../.. (back to folder). To enter in a folder easy way use Tab key from keybord.
+2.	dir (directory or directories) – dir shows the list of folder or files or directories available in current folder.
+3.	mkdir (make directory) – used to create a new folder or directory.
+4.	rmdir(remove directory) – used to delete empty folder.
+5.	rmdir /s(rmdir /s directory name) - used to delete  folder.
+6.	cls – used to clear the command prompt.
+7.	Echo > (echo >file_name.extention) – used to create file.
+8.	Enter the file name to open a file on this folder.
+9.	Echo (echo string > file_name.extention) – used to write in a file.
+10.	Echo (echo string >> file_name.extention) – used to write a string after a existing string)
+11.	Copy ( copy a.txt b.txt) – a text file string coped to b text file.
+12.	move (move a.txt b.txt) – a text file string moved to b text file.
+13.	Del (del filename.extention) – used to delete a file.
+14.	Type(type file_name.extention) – to see text of a file in command prompt.
+
