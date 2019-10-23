@@ -1,0 +1,16 @@
+For windows -
+Go to command prompt -
+1. Make a directory 
+
+2. Go into that directory
+
+3. Give command - python -m venv (path of that enviroment)\venv
+   
+	Example:python -m venv C:\Users\Shohel\Dev2\django_project\venv
+
+4. The Environment is created that we have to Activate the environment.
+   To do so we gave use this command - path\venv\Scripts\activate.bat
+   
+	Example:C:\Users\Shohel\Dev2\django_project\venv\Scripts\activate.bat
+
+5. To deactivate simply type - deactivate 
