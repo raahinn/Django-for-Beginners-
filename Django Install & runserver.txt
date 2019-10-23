@@ -1,0 +1,14 @@
+Activate the environment
+ 1. Install django by
+        pip install django
+ 
+ 2. django-admin(To see what you can do by django-admin commands)
+ 3. you can create a src folder if you want then go into it 
+ 
+ 4. start project by -
+        django-admin startproject projectName .
+    	Example -   django-admin startproject trydjango .
+ 
+ 5. Run Server by 
+	python manage.py runserver
+        	
